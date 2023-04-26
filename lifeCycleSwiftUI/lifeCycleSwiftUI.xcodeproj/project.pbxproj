@@ -11,6 +11,7 @@
 		5596D74A29F8DFC300A68C31 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5596D74929F8DFC300A68C31 /* ContentView.swift */; };
 		5596D74C29F8DFC400A68C31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5596D74B29F8DFC400A68C31 /* Assets.xcassets */; };
 		5596D74F29F8DFC400A68C31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5596D74E29F8DFC400A68C31 /* Preview Assets.xcassets */; };
+		5596D75629F8E72500A68C31 /* AppDelegete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5596D75529F8E72500A68C31 /* AppDelegete.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5596D74929F8DFC300A68C31 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5596D74B29F8DFC400A68C31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5596D74E29F8DFC400A68C31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5596D75529F8E72500A68C31 /* AppDelegete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegete.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				5596D74929F8DFC300A68C31 /* ContentView.swift */,
 				5596D74B29F8DFC400A68C31 /* Assets.xcassets */,
 				5596D74D29F8DFC400A68C31 /* Preview Content */,
+				5596D75529F8E72500A68C31 /* AppDelegete.swift */,
 			);
 			path = lifeCycleSwiftUI;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5596D75629F8E72500A68C31 /* AppDelegete.swift in Sources */,
 				5596D74A29F8DFC300A68C31 /* ContentView.swift in Sources */,
 				5596D74829F8DFC300A68C31 /* lifeCycleSwiftUIApp.swift in Sources */,
 			);
