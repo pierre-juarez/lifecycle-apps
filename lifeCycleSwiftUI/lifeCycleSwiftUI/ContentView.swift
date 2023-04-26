@@ -14,6 +14,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
+        }.onAppear{
+            print("View appeared")
+        }.onDisappear{
+            print("View disappeared")
         }
         .padding()
     }
